@@ -1,2 +1,2 @@
 # angular-fetch
-AngularJS service for fetch
+AngularJS service for window.fetch
